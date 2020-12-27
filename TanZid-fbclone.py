@@ -106,10 +106,10 @@ print  """\033[1;91m
                      ▇▇▇◣╲▇╱◢▇▇▇
                      ▇▇▇▇◣▇◢▇▇▇▇
                    WhatsApp : 01627151977
-\033[1;96mAuthor  \033[1;93m: \033[1;92mKomail Khan
-\033[1;96mInstagram \033[1;93m: \033[1;92mitx_muskan_yr
-\033[1;96mFacebook  \033[1;93m: \033[1;92m komail.khan.3781
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/KomailKhan/komailkhan
+\033[1;96mAuthor  \033[1;93m: \033[1;92mTanzid Ahamed
+\033[1;96mInstagram \033[1;93m: \033[1;92mdibo na
+\033[1;96mFacebook  \033[1;93m: \033[1;92m Tanzid.Ahamed.707/
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/TanZid-DarkLover/
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
